@@ -149,7 +149,7 @@ Any element in focus should have a 2px solid border on all sides.*/
 first div in the grid  and place it in the grid. */
 .container > div:first-child {
   grid-column: 1/-1;
-  background-image: url("/images/header.jpg");
+  background-image: url("https://alexis-camarena.github.io/hw3_2024/images/header.jpg");
 }
 
 
